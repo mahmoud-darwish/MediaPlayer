@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="img">
+    <file>../min.png</file>
+    <file>../image.png</file>
+    <file>hand-1850120_1920.jpg</file>
+    <file>../bg_overlay.png</file>
+    <file>../Sound Wave-logo (1)/cover.png</file>
+  </qresource>
+</RCC>
